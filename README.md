@@ -1,7 +1,7 @@
 # Banco-de-dados
 Isabel Barboza
-Jullian Carlo
+Jullian Carlo 
 Larissa Rosa
 Victor Hugo
-Willuam Tinoco
+William Tinoco
 Yan Rodrigues
