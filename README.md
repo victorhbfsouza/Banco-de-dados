@@ -1,7 +1,1 @@
-# Banco-de-dados
-Isabel Barboza
-Jullian Carlo 
-Larissa Rosa
-Victor Hugo
-William Tinoco
-Yan Rodrigues
+Repositório para a matéria de Banco de Dados da residencia em software serratec 2023.1
