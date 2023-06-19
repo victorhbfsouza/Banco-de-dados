@@ -3,6 +3,6 @@ Repositório para a matéria de Banco de Dados da residencia em software serrate
   
 </div>
 
-<h1>Linguagens utilizadas</h1>
+<h1>Tecnologias utilizadas</h1>
  <img align="center" alt="POSTEGREES" height="34" width="70" src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" alt="SQLITE" height="34" width="70" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
